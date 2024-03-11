@@ -8,5 +8,5 @@ This is a birth age calculator created in Android Studio using Java. It focuses 
 
 ## This is the Basic design of the application
 ## 1.Opening page View
-
+![Picture1](https://github.com/DeekshaAchar/Age_calculator/assets/109525095/c532ac99-844b-468f-840c-9706803bdf67)
 ## 2.Giving Birthdate and clicking on calculate Age button.
